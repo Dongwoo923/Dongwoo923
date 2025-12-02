@@ -30,7 +30,7 @@
 
 ---
 
-### 📺 [만능리모컨] (https://github.com/Dongwoo923/Project-CustomRemote)
+### 📺 [만능리모컨](https://github.com/Dongwoo923/Project-CustomRemote)
 타이머 & PWM 기반 IR 리모컨 송신기 펌웨어  
 - NEC 프로토콜 분석/파형 생성  
 - CubeMX로 클럭/타이머/PWM 설정  
