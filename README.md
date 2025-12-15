@@ -84,7 +84,6 @@ STM32 + 서버 + BLE + LCD 기반 IoT 무드등 시스템
   <img src="https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=opencv&logoColor=white" />
 </p>
 
 ---
