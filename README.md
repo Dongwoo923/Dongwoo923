@@ -16,12 +16,13 @@
 
 ## 🔥 주요 프로젝트 
 
-### 🔌 [USB 매크로]
+### 🔌 [USB 매크로](https://github.com/won-jong-wan/USB-Macro?tab=readme-ov-file)
 Linux Kernel 기반 USB Vendor 장치 제어 시스템
-- USB Vendor Class 기반 커스텀 디바이스 설계  
-- USB 연결만으로 즉시 동작하는 Plug & Play 매크로 실행 환경
+- USB Vendor Class 기반 커스텀 디바이스 설계
+- 자작 Linux 커널 드라이버를 통한 USB 장치 시스템 인터페이스
+- PC에서 명령 패킷을 적재 -> 로봇에 꽂으면 자동 실행되는 Plug & Run구조
 - USB 장치 ↔ 커널 ↔ 사용자 애플리케이션 연동 구조 
-- Bulk 전송 기반 프레임 프로토콜로 안정적인 데이터 처리
+- CDC(UART) 기반 복구/디버깅 경로를 고려한 이중 통신 구조
 
 ---
 
