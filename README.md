@@ -10,7 +10,7 @@
 ## 🚀 About Me
 
 - 👨‍💻 Embedded Linux & Firmware 개발 지향
-- 🎯 관심 분야: **Device Driver, BSP,RTOS, Firmware**
+- 🎯 관심 분야: **Device Driver, BSP, RTOS, Firmware**
 
 ---
 
