@@ -58,11 +58,9 @@ Raspberry Pi 4B + Linux Kernel 기반
 ### 💡 [IoT 스마트 무드등](https://github.com/Dongwoo923Project-Smartmoodlamp)
 STM32 + 서버 + BLE + LCD 기반 IoT 무드등 시스템  
 - 원격 제어(LED 모드, 밝기, 색상 변경)  
-- 날씨/기온/일출·일몰 시간 API 연동  
-- LCD에 현재 시간·날씨 표시  
+- 날씨/기온/일출·일몰 시간 API 연동 및 LCD 표시  
 - BLE 모듈로 서버 데이터 수신  
 - SQL 기반 상태 저장/업데이트  
-- ON / OFF / 색상순환 모드 지원  
 
 ---
 
