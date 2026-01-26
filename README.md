@@ -36,22 +36,20 @@ Raspberry Pi 4B + Linux Kernel 기반
 
 ---
 
-
-### 🧠 [AI 모의 면접 시스템](https://github.com/Dongwoo923/Project-AI_Interview)
-라즈베리파이5 + Streamlit + Flask 기반 AI 면접 시스템  
-- Edge AI를 활용한 온디바이스 추론으로 빠른 응답 속도 구현
-- 음성 녹음(STT),XML 자세 분석  
-- LLM 질문별/최종 피드백을 통한 실전 면접 연습 환경 제공  
-  
-
----
-
-### 📺 [만능 리모컨](https://github.com/Dongwoo923/Project-CustomRemote)
+### 📺 [커스텀 리모컨](https://github.com/Dongwoo923/Project-CustomRemote)
 타이머 & PWM 기반 IR 리모컨 송신기 펌웨어  
 - NEC 프로토콜 분석/파형 생성  
 - CubeMX로 클럭/타이머/PWM 설정  
 - 딜레이 정밀도 조절  
 - 실제 가전 제품 제어 테스트 목표  
+
+---
+
+### 🧠 [오만과 편견](https://github.com/Dongwoo923/Project-AI_Interview)
+라즈베리파이5 + Streamlit + Flask 기반 AI 면접 시스템  
+- Edge AI를 활용한 온디바이스 추론으로 빠른 응답 속도 구현
+- 음성 녹음(STT),XML 자세 분석  
+- LLM 질문별/최종 피드백을 통한 실전 면접 연습 환경 제공  
 
 ---
 
